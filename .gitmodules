@@ -1,3 +1,92 @@
+[submodule "cmp-buffer"]
+	path = share/nvim/site/pack/vendor/start/cmp-buffer
+	url = https://github.com/hrsh7th/cmp-buffer
+
+[submodule "cmp-nvim-lsp"]
+	path = share/nvim/site/pack/vendor/start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp
+
+[submodule "cmp-nvim-lua"]
+	path = share/nvim/site/pack/vendor/start/cmp-nvim-lua
+	url = https://github.com/hrsh7th/cmp-nvim-lua
+
+[submodule "cmp-path"]
+	path = share/nvim/site/pack/vendor/start/cmp-path
+	url = https://github.com/hrsh7th/cmp-path
+
+[submodule "cmp-luasnip"]
+	path = share/nvim/site/pack/vendor/start/cmp_luasnip
+	url = https://github.com/hrsh7th/cmp-luasnip
+
+[submodule "friendly-snippets"]
+	path = share/nvim/site/pack/vendor/start/friendly-snippets
+	url = https://github.com/rafamadriz/friendly-snippets
+
+[submodule "harpoon"]
+	path = share/nvim/site/pack/vendor/start/harpoon
+	url = https://github.com/ThePrimeagen/harpoon
+
+[submodule "lsp-zero.nvim"]
+	path = share/nvim/site/pack/vendor/start/lsp-zero.nvim
+	url = https://github.com/VonHeikemen/lsp-zero.nvim
+
+[submodule "lualine.nvim"]
+	path = share/nvim/site/pack/vendor/start/lualine.nvim
+	url = https://github.com/nvim-lualine/lualine.nvim
+
 [submodule "LuaSnip"]
 	path = share/nvim/site/pack/vendor/start/LuaSnip
 	url = https://github.com/L3MON4D3/LuaSnip
+
+[submodule "mason-lspconfig"]
+	path = share/nvim/site/pack/vendor/start/mason-lspconfig
+	url = https://github.com/williamboman/mason-lspconfig.nvim
+
+[submodule "mason.nvim"]
+	path = share/nvim/site/pack/vendor/start/mason.nvim
+	url = https://github.com//mason.nvim
+
+[submodule "nvim-cmp"]
+	path = share/nvim/site/pack/vendor/start/nvim-cmp
+	url = https://github.com//nvim-cmp
+
+[submodule "nvim-lspconfig"]
+	path = share/nvim/site/pack/vendor/start/nvim-lspconfig
+	url = https://github.com//nvim-lspconfig
+
+[submodule "nvim-tree.lua"]
+	path = share/nvim/site/pack/vendor/start/nvim-tree.lua
+	url = https://github.com//nvim-tree.lua
+
+[submodule "nvim-treesitter"]
+	path = share/nvim/site/pack/vendor/start/nvim-treesitter
+	url = https://github.com//nvim-treesitter
+
+[submodule "nvim-web-devicons"]
+	path = share/nvim/site/pack/vendor/start/nvim-web-devicons
+	url = https://github.com//nvim-web-devicons
+
+[submodule "plenary.nvim"]
+	path = share/nvim/site/pack/vendor/start/plenary.nvim
+	url = https://github.com//plenary.nvim
+
+[submodule "undootree"]
+	path = share/nvim/site/pack/vendor/start/undootree
+	url = https://github.com//undootree
+
+[submodule "vim-fugitive"]
+	path = share/nvim/site/pack/vendor/start/vim-fugitive
+	url = https://github.com//vim-fugitive
+
+[submodule "vim-signify"]
+	path = share/nvim/site/pack/vendor/start/vim-signify
+	url = https://github.com//vim-signify
+
+[submodule "vim-tmux-navigator"]
+	path = share/nvim/site/pack/vendor/start/vim-tmux-navigator
+	url = https://github.com//vim-tmux-navigator
+
+[submodule "vimwiki"]
+	path = share/nvim/site/pack/vendor/start/vimwiki
+	url = https://github.com//vimwiki
+
