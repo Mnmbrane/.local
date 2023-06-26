@@ -70,6 +70,10 @@
 	path = share/nvim/site/pack/vendor/start/plenary.nvim
 	url = https://github.com/nvim-lua/plenary.nvim
 
+[submodule "telescope.nvim"]
+	path = share/nvim/site/pack/vendor/start/telescpe.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim
+
 [submodule "undotree"]
 	path = share/nvim/site/pack/vendor/start/undotree
 	url = https://github.com/mbbill/undotree
