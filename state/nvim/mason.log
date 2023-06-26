@@ -1,0 +1,2 @@
+[INFO  Sun Jun 25 14:58:43 2023] ...endor/start/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Sun Jun 25 14:58:44 2023] ...endor/start/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
