@@ -44,49 +44,52 @@
 
 [submodule "mason.nvim"]
 	path = share/nvim/site/pack/vendor/start/mason.nvim
-	url = https://github.com//mason.nvim
+	url = https://github.com/williamboman/mason.nvim
 
 [submodule "nvim-cmp"]
 	path = share/nvim/site/pack/vendor/start/nvim-cmp
-	url = https://github.com//nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp
 
 [submodule "nvim-lspconfig"]
 	path = share/nvim/site/pack/vendor/start/nvim-lspconfig
-	url = https://github.com//nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
 
 [submodule "nvim-tree.lua"]
 	path = share/nvim/site/pack/vendor/start/nvim-tree.lua
-	url = https://github.com//nvim-tree.lua
+	url = https://github.com/nvim-tree/nvim-tree.lua
 
 [submodule "nvim-treesitter"]
 	path = share/nvim/site/pack/vendor/start/nvim-treesitter
-	url = https://github.com//nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
 
 [submodule "nvim-web-devicons"]
 	path = share/nvim/site/pack/vendor/start/nvim-web-devicons
-	url = https://github.com//nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons
 
 [submodule "plenary.nvim"]
 	path = share/nvim/site/pack/vendor/start/plenary.nvim
-	url = https://github.com//plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
 
-[submodule "undootree"]
-	path = share/nvim/site/pack/vendor/start/undootree
-	url = https://github.com//undootree
+[submodule "undotree"]
+	path = share/nvim/site/pack/vendor/start/undotree
+	url = https://github.com/mbbill/undotree
 
 [submodule "vim-fugitive"]
 	path = share/nvim/site/pack/vendor/start/vim-fugitive
-	url = https://github.com//vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
 
 [submodule "vim-signify"]
 	path = share/nvim/site/pack/vendor/start/vim-signify
-	url = https://github.com//vim-signify
+	url = https://github.com/mhinz/vim-signify
 
 [submodule "vim-tmux-navigator"]
 	path = share/nvim/site/pack/vendor/start/vim-tmux-navigator
-	url = https://github.com//vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
 
 [submodule "vimwiki"]
 	path = share/nvim/site/pack/vendor/start/vimwiki
-	url = https://github.com//vimwiki
+	url = https://github.com/vimwiki/vimwiki
 
+[submodule "vscode.nvim"]
+	path = share/nvim/site/pack/themes/start/vscode.nvim
+	url = https://github.com/Mofiqul/vscode.nvim
